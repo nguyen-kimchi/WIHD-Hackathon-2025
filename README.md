@@ -5,23 +5,23 @@
 Welcome to Women in Health Data Hackathon 2025! 
 
 <!-- TABLE OF CONTENT -->
-<details>
-    <Summary>Table of Contents</summary>
-    <ol>
-        <li><a href="#datetime">Date & Time</a></li>
-        <li><a href="#location">Location</a></li>
-        <li><a href="#theme">Theme</a></li>
-        <li><a href="#about">What this Hackathon is about</a></li>
-        <li><a href="#challenge">The Challenge Focus</a></li>
-        <li><a href="#task">What you'll do</a></li>
-        <li><a href="#need">What you will need</a></li>
-        <li><a href="#for">Who is this Hackathon for</a></li>
-        <li><a href="#tools">Tools You Can Use</a></li>
-        <li><a href="#materials">What We'll Provide</a></li>
-        <li><a href="#category">Recognition</a></li>
-        <li><a href="#judging">Judging Criteria</a></li>
-        <li><a href="#key_deadlines">Key Deadlines</a></li>
-</details>
+
+**Table of Contents**
+<ol>
+    <li><a href="#datetime">Date & Time</a></li>
+    <li><a href="#location">Location</a></li>
+    <li><a href="#theme">Theme</a></li>
+    <li><a href="#about">What this Hackathon is about</a></li>
+    <li><a href="#challenge">The Challenge Focus</a></li>
+    <li><a href="#task">What you'll do</a></li>
+    <li><a href="#need">What you will need</a></li>
+    <li><a href="#for">Who is this Hackathon for</a></li>
+    <li><a href="#tools">Tools You Can Use</a></li>
+    <li><a href="#materials">What We'll Provide</a></li>
+    <li><a href="#category">Recognition</a></li>
+    <li><a href="#judging">Judging Criteria</a></li>
+    <li><a href="#key_deadlines">Key Deadlines</a></li>
+
 
 <a id="datetime"></a>
 
