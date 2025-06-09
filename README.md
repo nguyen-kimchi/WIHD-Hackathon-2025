@@ -17,7 +17,7 @@ Welcome to Women in Health Data Hackathon 2025!
     <li><a href="#need">What you will need</a></li>
     <li><a href="#for">Who is this Hackathon for</a></li>
     <li><a href="#tools">Tools You Can Use</a></li>
-    <li><a href="#materials">What We'll Provide</a></li>
+    <li><a href="#materials">What We'll Provide - Datasets</a></li>
     <li><a href="#category">Recognition</a></li>
     <li><a href="#judging">Judging Criteria</a></li>
     <li><a href="#key_deadlines">Key Deadlines</a></li>
@@ -119,11 +119,20 @@ Use visual tools to explore the answers and make them clear, engaging, and impac
 
 <a id="materials"></a>
 
-## What We’ll Provide
+## What We’ll Provide - Datasets 
 - [Artificial Data Pilot](https://digital.nhs.uk/services/artificial-data#access-artificial-data-sets)
+    - [Metadata for Artificial Data Pilot](https://digital.nhs.uk/binaries/content/assets/website-assets/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/hes-data-dictionary/hes-tos-v2.04.xlsx)
 - Suggested Datasets:
     - [Maternity Statistics](https://digital.nhs.uk/data-and-information/publications/statistical/maternity-services-monthly-statistics)
     - [Mental Health Services Data Set (MHSDS)](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set)
+    - [Mental Health Data Hub](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/mental-health-data-hub)
+    - [Screening Data Set](https://www.england.nhs.uk/statistics/statistical-work-areas/screening/)
+    - [Referral to Treating Waiting Times](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/)
+    - [Sexual and Reproductive Health Services](https://digital.nhs.uk/data-and-information/publications/statistical/sexual-and-reproductive-health-services)
+    - [Hospital Admitted Patient Care Activity](https://digital.nhs.uk/data-and-information/publications/statistical/hospital-admitted-patient-care-activity)
+- [General Practice Data Hub](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub)
+
+
 - Optional Q&A sessions with subject matter experts
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
