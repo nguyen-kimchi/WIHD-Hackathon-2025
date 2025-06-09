@@ -18,7 +18,7 @@ Welcome to Women in Health Data Hackathon 2025!
     <li><a href="#for">Who is this Hackathon for</a></li>
     <li><a href="#tools">Tools You Can Use</a></li>
     <li><a href="#materials">What We'll Provide - Datasets</a></li>
-    <li><a href="#category">Recognition</a></li>
+    <!-- <li><a href="#category">Recognition</a></li> -->
     <li><a href="#judging">Judging Criteria</a></li>
     <li><a href="#key_deadlines">Key Deadlines</a></li>
 
@@ -138,14 +138,14 @@ Use visual tools to explore the answers and make them clear, engaging, and impac
 
 <a id="category"></a>
 
-## Recognition
+<!-- ## Recognition
 - Best Overall Insight
 - Best Visual Storytelling
 - Most Thought-Provoking Use of Data
 - Most Innovative Use of Data
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a id="judging"></a>
+<a id="judging"></a> -->
 
 ## Judging Criteria
 - Clarity of Insight – Is the story relevant and understandable?
